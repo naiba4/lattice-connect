@@ -34,7 +34,7 @@
   "dependencies": {
     "aedes": "^0.42.6",
     "babel-preset-env": "^1.7.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mqtt": "^2.18.8",
