@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/GridPlus/lattice-connect#readme",
   "dependencies": {
-    "aedes": "^0.42.6",
+    "aedes": "^0.44.1",
     "babel-preset-env": "^1.7.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
